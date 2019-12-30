@@ -74,7 +74,7 @@ that purpose. We look forward to seeing you at our next meeting\!
 
 | Meeting Date      | Presenter/Author   | Document Title                           | Link                                                                                             |
 | ----------------- | ------------------ | ---------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| July 25, 2019     | Michael Klosterman | Adversary Emulation with MITRE's Caldera | <https://www.owasp.org/images/9/94/OWASP-20190725-Caldera-Installation_and_Overview_%281%29.pdf> |
+| July 25, 2019     | Michael Klosterman | Adversary Emulation with MITRE's Caldera | </www-pdf-archive/OWASP-20190725-Caldera-Installation_and_Overview_%281%29.pdf> |
 | March 28, 2019    | Mike Saunders      | Web App 101: Getting the Lay of the Land | <https://www.redsiege.com/wp-content/uploads/2018/10/WA101-LayoftheLand.pdf>                     |
 | December 13, 2018 | Nicholas Penning   | Cuckoo Sandbox                           | <https://www.owasp.org/images/a/a3/Cuckoo_OWASP.pdf>                                             |
 | December 13, 2018 | Paul Kern          | Burp, ZAP, and Other Funny Noises        | <https://www.owasp.org/images/d/d8/Intercept-proxies.pdf>                                        |
@@ -86,5 +86,5 @@ that purpose. We look forward to seeing you at our next meeting\!
 | January 16, 2018  | Paul Kern          | Welcome to OWASP/Web Application Top 10  | <https://www.owasp.org/images/b/bd/Welcome.pdf>                                                  |
 | January 16, 2018  | Paul Kern          | Meltdown/Spectre                         | <https://www.owasp.org/images/1/1d/Meltdown-spectre.pdf>                                         |
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:United States](Category:United_States "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:United States](Category:United_States )
