@@ -8,6 +8,9 @@ level: 0
 region: United States
 
 auto-migrated: 1
+meetup-group: OWASP-Sioux-Falls
+country: USA
+postal-code: 57101
 
 ---
 
